@@ -1,1 +1,1 @@
-Здесь я просто изучал, как работать с .git и github
+Here I was just learning how to work with .git and github from YouTube video
